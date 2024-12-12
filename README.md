@@ -45,7 +45,7 @@ NeoScript is an innovative programming language designed to simplify coding for 
 
 - [x] Basic syntax and structure
 - [x] Arithmetic and logical operations
-- [ ] Advanced functions and modules
+- [x] Advanced functions and modules
 
 ---
 
