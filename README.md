@@ -21,15 +21,6 @@ NeoScript is an innovative programming language designed to simplify coding for 
 - Xcode IDE (recommended for development)
 - Playgrounds
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Achivie/Neos.git
-   cd Neos
-   ```
-2. Build and run the project using Xcode or the Swift command-line tools.
-
 ### Running Your First NeoScript Program
 
 1. Open the NeoScript environment.
